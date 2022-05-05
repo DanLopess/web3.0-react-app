@@ -5,8 +5,12 @@ It can also
 
 ## TODO
 
-[ ] Create react project
+[x] Create react project
+
 [ ] Create solidity smart contract
+
 [ ] Connect to metamask
+
 [ ] View transactions on web app
+
 [ ] Add pipelines for building and testing the project
