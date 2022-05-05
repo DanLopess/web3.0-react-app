@@ -1,2 +1,12 @@
-# web3.0-react-app
-Web app 3.0 using React.js that is able to connect to Ethereum wallet (metamask)
+# React WEB 3.0 App
+
+This is a Web app 3.0 using React.js that is able to connect to Ethereum wallet (metamask).
+It can also
+
+## TODO
+
+[ ] Create react project
+[ ] Create solidity smart contract
+[ ] Connect to metamask
+[ ] View transactions on web app
+[ ] Add pipelines for building and testing the project
